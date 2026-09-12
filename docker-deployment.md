@@ -5,14 +5,17 @@
 ### Check Docker Version
 
 ```bash
-docker --version 
+docker --version
+```
+### Check Docker Information
 This command displays the installed Docker version.
-
-docker info 
+```bash
+docker info
+```
 This command displays information about the Docker client and server environment.
 
-Checkpoint 4
-
+## Checkpoint 4 - Deploy Your First Container
+```bash
 docker pull nginx 
 This command downloads the official Nginx image from Docker Hub.
 
