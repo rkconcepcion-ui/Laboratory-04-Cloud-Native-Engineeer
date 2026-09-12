@@ -1,4 +1,4 @@
-# Mission Reflection
+# Reflection
 
 This laboratory activity helped me understand how containerization works and why Docker is useful in cloud computing. Before performing the activity, I knew that Docker was used for containers, but I had less experience with actually deploying and managing one. Using the KillerCoda Playground allowed me to practice Docker commands and see the process in action.
 
